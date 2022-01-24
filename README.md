@@ -1,4 +1,4 @@
-# Online Banking Project - V2
+# Banking Management System - V2
 
 ## Class Diagram
 ![](https://github.com/dioapw/school-project-object-oriented-programming-v2/blob/main/BankOfDioAditya.jpg)
